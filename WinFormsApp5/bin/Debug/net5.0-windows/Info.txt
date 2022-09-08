@@ -1,0 +1,5 @@
+System.Windows.Forms.Label, Text: 50
+System.Windows.Forms.Label, Text: 28
+System.Windows.Forms.Label, Text: 78
+28.04.2022 19:21:19
+Zapravka 3, ylica Tarasa Shev4enko 5
